@@ -1,6 +1,6 @@
-*notes/
+notes/
 *.png
 *.pages
 *.nb
 *.pdf
-*.idea/
+.idea/
