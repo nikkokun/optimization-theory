@@ -1,5 +1,4 @@
 # Optimization Theory Final
-## Submitted by: Nikko Mizutani(s16574nm)
 
 ## Problem being solved
 I created this project with the goal of solving the random selection for classes at SFC. Although the number of classes
